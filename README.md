@@ -88,14 +88,16 @@ Simply open the index.html file in your browser or use a local live server (like
 🧾 Implement donor reward certificates
 🔔 Add notification system for donation requests
 📱 Develop a mobile app version
+📜 License
 
-👨‍💻 Author
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute it with attribution.
 
-Shivam Sharma
-💻 GitHub
+## 👨‍💻 Author  
 
-🔗 LinkedIn
+**Shivam Sharma**  
+💻 [GitHub](https://github.com/cyberbuddyshivam)  
+🔗 [LinkedIn](https://www.linkedin.com/in/cyberbuddyshivam/))  
+✉️ [Email](mailto:shivam1110sharma@gmail.com)
 
-✉️ Email
-
-⭐ If you find this project inspiring, consider giving it a star!
+⭐ Don’t forget to star the repository if you found it helpful!
